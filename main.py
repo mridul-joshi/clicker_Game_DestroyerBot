@@ -28,8 +28,8 @@ y_left = 500 + window_rect[1]
 # creating instance of the WindowCapture class
 # WindowCapture.list_window_names()
 wincap = WindowCapture('Kick Ya Chop - Google Chrome')  # nod defined
-needleLeft = 'leftHat.jpg'
-needleRight = 'rightHat.jpg'
+needleLeft = './images/leftHat.jpg'
+needleRight = './images/rightHat.jpg'
 vis = Vision1()
 loop_time = time()
 flag = []
