@@ -1,0 +1,3 @@
+# clicker Game DestroyerBot
+
+a  bot that uses opencv to identify patterns and act accordingly ....
