@@ -70,7 +70,7 @@ class WindowCapture:
         # testing
         # img = img[start height : end height, start width : end width]
 
-        img = img[380:570, 150:480]
+        img = img[380:520, 150:480]
         # free resources
         dcObj.DeleteDC()
         cDC.DeleteDC()
